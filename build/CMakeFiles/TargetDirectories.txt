@@ -1,0 +1,3 @@
+C:/Users/HP/OneDrive/Desktop/face detect/build/CMakeFiles/face_detection.dir
+C:/Users/HP/OneDrive/Desktop/face detect/build/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/face detect/build/CMakeFiles/rebuild_cache.dir

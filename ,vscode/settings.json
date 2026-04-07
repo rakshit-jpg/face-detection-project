@@ -1,0 +1,5 @@
+{
+  "cmake.configureArgs": [
+    "-DOpenCV_DIR=C:/Users/HP/Downloads/opencv/opencv/build"
+  ]
+}

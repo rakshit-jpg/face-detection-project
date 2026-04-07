@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/HP/OneDrive/Desktop/face detect/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/face_detection.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\face_detection.dir\\face-detection.cpp.obj -c \"C:\\Users\\HP\\OneDrive\\Desktop\\face detect\\face-detection.cpp\"",
+  "file": "C:/Users/HP/OneDrive/Desktop/face detect/face-detection.cpp",
+  "output": "CMakeFiles/face_detection.dir/face-detection.cpp.obj"
+}
+]
